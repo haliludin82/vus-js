@@ -55,6 +55,8 @@ npm run test:e2e -- --debug
 
 ### Lint with [ESLint](https://eslint.org/)
 
+Jasa Taman Semarang - https://rimbunlandscapedesigner.com
+
 ```sh
 npm run lint
 ```
